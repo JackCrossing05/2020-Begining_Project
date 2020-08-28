@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Jack Tanners Portfolio
 
 You can use the [editor on GitHub](https://github.com/JackCrossing05/2020portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
